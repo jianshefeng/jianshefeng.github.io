@@ -1,8 +1,9 @@
 ---
 layout: frontpage
-title: Karl Broman
-description: Karl Broman is Professor in Biostatistics and Medical Informatics at University of Wisconsin - Madison; research in statistical genetics
-keywords: Broman, QTL, R/qtl, quantitative trait loci, statistics, statistical genetics, recombination
+title: Jianshe Feng
+description: Welcome to my site!
+I am a PhD candidate at center for intelligent maintenance systems (IMS), University of Cincinnati.
+keywords: Jianshe, Prognostics and Health Management, Machine Learning, Industrial AI, Adaptive Learning.
 ---
 
 <div class="navbar">
