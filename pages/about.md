@@ -1,27 +1,13 @@
 ---
 layout: page
 title: about
-description: Karl Broman is Professor in Biostatistics and Medical Informatics at University of Wisconsin - Madison; research in statistical genetics
+description: Welcome to my site! 
 ---
 
-Karl Broman is Professor in the
-[Department of Biostatistics &amp; Medical Informatics](https://www.biostat.wisc.edu)
-at the University of Wisconsin&ndash;Madison;
-research in statistical genetics; developer of
-[R/qtl](https://rqtl.org) (for [R](https://www.r-project.org)).
+I am a PhD candidate at center for intelligent maintenance systems (IMS), University of Cincinnati.
 
-Karl received a BS in [mathematics](http://uwm.edu/math)
-in 1991, from the
-University of Wisconsin&ndash;Milwaukee, and a
-PhD in [statistics](http://stat.berkeley.edu) in 1997, from the
-University of California, Berkeley; his PhD advisor was
-[Terry Speed](http://www.wehi.edu.au/people/terry-speed).
-He was a postdoctoral fellow with James Weber at the
-[Marshfield Clinic Research Foundation](http://research.marshfieldclinic.org),
-1997&ndash;1999. He
-was a faculty member in the [Department of Biostatistics](https://www.jhsph.edu/departments/biostatistics/) at Johns
-Hopkins University, 1999&ndash;2007. In 2007, he moved to the
-[University of Wisconsin&ndash;Madison](https://www.wisc.edu).
+He received the B.S. and M.S. in mechanical engineering from Tongji University, Shanghai, China in 2012 and Zhejiang University, Hangzhou, China in 2015, respectively. He is currently a Ph.D. researcher at Department of Mechanical
+Engineering, University of Cincinnati, Cincinnati, OH, USA. His research interests include prognostics and health management (PHM), machine learning and Cyber Physical System with applications in healthcare and manufacturing processes, machine tools, and vehicle industry.
 
 Karl is a Senior Editor for [_Genetics_](http://www.genetics.org) and
 a member of the [_BMC Biology_](https://bmcbiol.biomedcentral.com)
